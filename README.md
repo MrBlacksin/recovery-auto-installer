@@ -30,7 +30,7 @@ If you have a different device, simply replace the orangefox.img or twrp.img fil
 
 The author is not responsible for your device, data, or any possible consequences.
 
-==================================================================================
+============================================================
 
 🔧 OrangeFox / TWRP / FIX Installer for Any Devices
 by @mrblacksin_company
